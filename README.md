@@ -5,7 +5,7 @@ this program uses mahcine learning to recognize numbers from 0-9 on the drawing 
 # How To Use
 run main.py to start the program
 
-#commands:
+# commands:
 0-9 select which color1
 ctrl-z undo
 ctrl-d reset
