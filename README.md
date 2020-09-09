@@ -6,7 +6,7 @@ this program uses mahcine learning to recognize numbers from 0-9 on the drawing 
 run main.py to start the program
 
 # commands:
-0-9 select which color1
-ctrl-z undo
-ctrl-d reset
-ctrl-s save and let the model calculate what is the number
+* 0-9 select which color1
+* ctrl-z undo
+* ctrl-d reset
+* ctrl-s save and let the model calculate what is the number
